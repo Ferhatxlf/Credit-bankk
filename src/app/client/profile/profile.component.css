@@ -1,0 +1,30 @@
+.container-fluid {
+  height: 100%;
+  margin: 0 auto;
+  max-width: 1200px;
+  padding: 20px;
+}
+.profile {
+  margin-top: 50px;
+  background-color: rgb(235, 230, 230);
+  padding: 20px;
+  border-radius: 8px;
+  box-shadow: 0 0 15px 1px rgba(43, 41, 41, 0.479);
+}
+
+h2 {
+  color: #333;
+}
+
+ul {
+  list-style: none;
+  padding: 0;
+}
+
+li {
+  margin-bottom: 10px;
+}
+
+strong {
+  font-weight: bold;
+}
